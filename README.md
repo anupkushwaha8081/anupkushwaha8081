@@ -2,7 +2,7 @@
 
 - <h1 align="center">Hi 👋, I'm ANUP KUSHWAHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkushwaha8081&label=Profile%20views&color=0e75b6&style=flat" alt="anupkushwaha8081" /> </p>
 - 👀 I’m interested in web development
