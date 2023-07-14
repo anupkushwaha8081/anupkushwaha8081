@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/anupkushwaha8081/anupkushwaha8081/blob/2f0b61330cdf4111f95df833c7518d21d824a518/vecteezy_eye-cyber-circuit-future-technology-concept-background_8018212.jpg?raw=true)](https://codegrills.in)
+[![MasterHead](https://github.com/anupkushwaha8081/anupkushwaha8081/blob/main/Make%20your%20README%20(1).png)](https://codegrills.in)
 
 
 
