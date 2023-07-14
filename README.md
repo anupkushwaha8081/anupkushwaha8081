@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkushwaha8081&label=Profile%20views&color=0e75b6&style=flat" alt="anupkushwaha8081" /> </p>
 - 👀 I’m interested in web development
+
 - 🌱 I’m currently learning DSA with java language
 
 - 💬 Ask me about **REACT,JAVA,C PROGRAMMING**
@@ -17,7 +18,7 @@
 <a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup_kushwaha" height="30" width="40" /></a>
 <a href="https://fb.com/anup_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anup_kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/anupk6347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupk6347" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anupkushwaha7985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anupkushwaha7985" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anupkushwaha7985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anupkushwaha7985" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
