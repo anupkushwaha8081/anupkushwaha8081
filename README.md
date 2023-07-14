@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/anupkushwaha8081/anupkushwaha8081/blob/main/Make%20your%20README%20(1).png)](https://codegrills.in)
 
-! [logo] (https://github.com/anupkushwaha8081/anupkushwaha8081/blob/main/Make%20your%20README%20(1).png);
+
 
 - <h1 align="center">Hi 👋, I'm ANUP KUSHWAHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
